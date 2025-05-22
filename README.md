@@ -14,7 +14,7 @@ Full-stack software developer with a keen interest in system architecture, cloud
 | Name | Description | Tech Stack |
 | - | - | - |
 | [**Double Feature**](https://github.com/alistershko/doublefeature) | A game for film buffs where players link movies via shared cast members | React, Javascript, Express.js, Node.js, Jest |
-| [**Quizbook**](https://github.com/alistershko/Quizbookv)       | A social media platform for creating and sharing trivia quizzes         | React, HTML, CSS, Go, Express.js, Node.js, Gin, Vitest|
+| [**Quizbook**](https://github.com/alistershko/Quizbook)       | A social media platform for creating and sharing trivia quizzes         | React, HTML, CSS, Go, Express.js, Node.js, Gin, Vitest|
 
 
 ## Tech Stack
